@@ -1,4 +1,4 @@
-export const ApplicationName = 'csgofoo';
+export const ApplicationName = 'myapp';
 
 export const ReturnUrlType = 'returnUrl';
 

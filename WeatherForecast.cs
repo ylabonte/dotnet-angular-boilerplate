@@ -1,6 +1,6 @@
 using System;
 
-namespace csgofoo
+namespace myapp
 {
     public class WeatherForecast
     {
